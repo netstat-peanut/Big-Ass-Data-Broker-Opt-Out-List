@@ -50,30 +50,30 @@ Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
 > Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
 
-### ☠ BeenVerified
-Find your information and opt out here:
+> ### ☠ BeenVerified
+> Find your information and opt out here:
 
-[https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
+> [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
 
-Opt out of property search here:
+> Opt out of property search here:
 
-[https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
+> [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
 
 ### CheckPeople
 Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
 
-### CheckThem.com
-Find your information and opt out here:
+> ### CheckThem.com
+> Find your information and opt out here:
 
-[https://www.checkthem.com/optout/](https://www.checkthem.com/optout/). You will receive a link via email you’ll need to click on to complete the process.
+> [https://www.checkthem.com/optout/](https://www.checkthem.com/optout/). You will receive a link via email you’ll need to click on to complete the process.
 
-### Classmates.com
-Cancel your free or paid membership following the instructions here: 
+> ### Classmates.com
+> Cancel your free or paid membership following the instructions here: 
 
-[https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
+> [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
 
-### ClustrMaps
-Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+> ### ClustrMaps
+> Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
 
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
@@ -89,11 +89,11 @@ Look for and remove your information here: [https://www.fastpeoplesearch.com/rem
 ### FreePeopleDirectory
 Search for your information at ]https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). 
 
-### Homemetry
-Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
+> ### Homemetry
+> Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
-### IDTrue
-Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
+> ### IDTrue
+> Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
 ### InfoTracer
 Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/)
