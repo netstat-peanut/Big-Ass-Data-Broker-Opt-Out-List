@@ -34,9 +34,9 @@ If you've been doxed, you can remove your contact info from Google Search and Bi
 
 > If you don’t have an email address, call (877) 774-2094 and follow the prompts.~~
 
-#### ☠ Advanced Background Checks
+> #### ☠ Advanced Background Checks
 
-Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+> Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
 ### Archives
 To find your information, you must sign up for a free trial here:
