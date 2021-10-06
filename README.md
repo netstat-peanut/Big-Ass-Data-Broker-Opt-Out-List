@@ -23,16 +23,16 @@ If you've been doxed, you can remove your contact info from Google Search and Bi
 
 ## People Search Sites
 
-### Acxiom
+~~### Acxiom
 It is hard to find your own info for free, but you can opt out here:
 
-[https://isapps.acxiom.com/optout/optout.aspx#section8](https://isapps.acxiom.com/optout/optout.aspx#section8) (U.S.)
+~~[https://isapps.acxiom.com/optout/optout.aspx#section8](https://isapps.acxiom.com/optout/optout.aspx#section8) (U.S.)
 
-[https://isapps.acxiom.com/optout/optout.aspx#section7](https://isapps.acxiom.com/optout/optout.aspx#section7) (non-U.S.)
+~~[https://isapps.acxiom.com/optout/optout.aspx#section7](https://isapps.acxiom.com/optout/optout.aspx#section7) (non-U.S.)
 
-[https://isapps.acxiom.com/optout/optout.aspx](https://isapps.acxiom.com/optout/optout.aspx) (info)
+~~[https://isapps.acxiom.com/optout/optout.aspx](https://isapps.acxiom.com/optout/optout.aspx) (info)
 
-If you don’t have an email address, call (877) 774-2094 and follow the prompts.
+~~If you don’t have an email address, call (877) 774-2094 and follow the prompts.~~
 
 #### ☠ Advanced Background Checks
 
