@@ -164,29 +164,29 @@ Find your information here: [https://www.smartbackgroundchecks.com/](https://www
 ### TruePeopleSearch
 Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
 
-### That’s Them
+> ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout).
 
-### ☠ TruthFinder
-Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
+> ### ☠ TruthFinder
+> Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
 
-### USA People Search
-Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
+> ### USA People Search
+> Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
-### US Search 
-Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
+> ### US Search 
+> Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
 
 ### ☠ USPhoneBook
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
-### Verecor
-Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
+> ### Verecor
+> Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
 
-### ☠ 📞 White Pages
-Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
+> ### ☠ 📞 White Pages
+> Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
 
 You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing)-. You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
 
