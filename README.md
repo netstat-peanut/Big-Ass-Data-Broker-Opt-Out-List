@@ -134,32 +134,32 @@ Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (
 ### ☠ Pipl
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
 
-### Private Eye
-Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. This site will also take you to PeopleFinders, so you can opt out of that, too.
+> ### Private Eye
+> Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. This site will also take you to PeopleFinders, so you can opt out of that, too.
 
-### PublicRecordsNow
-Find your information here: [https://www.publicrecordsnow.com/]. Click “opt out” on this form: [https://www.publicrecordsnow.com/static/view/contact/],  fill out the form, complete the captcha and send it in.
+> ### PublicRecordsNow
+> Find your information here: [https://www.publicrecordsnow.com/]. Click “opt out” on this form: [https://www.publicrecordsnow.com/static/view/contact/],  fill out the form, complete the captcha and send it in.
 
-### ☠ Radaris
-Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
+> ### ☠ Radaris
+> Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
-### 💰 SearchBug
-Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email [support@searchbug.zohodesk.com](mailto:support@searchbug.zohodesk.com) to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
+> ### 💰 SearchBug
+> Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email [support@searchbug.zohodesk.com](mailto:support@searchbug.zohodesk.com) to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
 
 ### SearchPeopleFree
 FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
 
-### SearchQuarry
-Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [https://www.searchquarry.com/opt-out/](https://www.searchquarry.com/opt-out/) You will need to click the verification link in your inbox to finalize the opt out.
+> ### SearchQuarry
+> Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [https://www.searchquarry.com/opt-out/](https://www.searchquarry.com/opt-out/) You will need to click the verification link in your inbox to finalize the opt out.
 
 ### SmartBackground Checks
 Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
 
-### Spoke
-Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is not be working—its link from the FAQ page is dead.
+> ### Spoke
+> Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is not be working—its link from the FAQ page is dead.
 
-### ☠ Spokeo
-Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
+> ### ☠ Spokeo
+> Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
 
 ### TruePeopleSearch
 Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
