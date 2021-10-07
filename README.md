@@ -115,20 +115,20 @@ Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](htt
 ### Nuwber
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
 
-### ☠ PeekYou
-Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/) , opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
+> ### ☠ PeekYou
+> Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/) , opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
 
-### 💰 PeopleByName
-Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
+> ### 💰 PeopleByName
+> Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
 
-### ☠ PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
+> ### ☠ PeopleFinders
+> Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
 
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out)
 
-### Persopo
-Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
+> ### Persopo
+> Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
 Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)).
 
 ### ☠ Pipl
