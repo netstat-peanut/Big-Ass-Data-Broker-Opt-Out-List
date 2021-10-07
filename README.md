@@ -95,18 +95,18 @@ Search for your information at ]https://www.freepeopledirectory.com](https://www
 > ### IDTrue
 > Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
-### InfoTracer
-Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/)
+> ### InfoTracer
+> Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/)
 
-You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
+> You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
-### ☠ InstantCheckmate
-Find and remove your information here:
+> ### ☠ InstantCheckmate
+> Find and remove your information here:
 
-[https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
+> [https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
 
-### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
+> ### ☠ Intelius
+> Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
 
 ### ☠ 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
